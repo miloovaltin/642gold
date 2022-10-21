@@ -1,0 +1,16 @@
+{
+"name": "642gold",
+"theme": "642gold",
+"version": "9.3.10",
+"description": "642gold สมัครสมาชิกเว็บไซต์พนันเว็บตรง สมาชิกเยอะ รับเงินเครดิตฟรี",
+"keywords": [
+"642gold",
+"642gold เครดิตฟรี",
+"642gold ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/642gold",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
